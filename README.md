@@ -8,7 +8,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐁𝐙𝐎)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=𝐄𝐍𝐙𝐎+𝐌𝐃+⭕+𝐂𝐑𝐄𝐀𝐓𝐄𝐃+𝐁𝐘+𝐄𝐍𝐙𝐎)](https://git.io/typing-svg) 
 
 <p align="centre"><img src="https://i.ibb.co/2PMz2VZ/IMG-20241019-WA0222.jpg" width="500" height="500" />
 
@@ -25,15 +25,15 @@
 
 <p align="center">
 <a href="https://github.com/ENZOTECH2/followers"><img title="Followers" src="https://img.shields.io/github/followers/ENZOTECH2?color=blue&style=flat-square"></a>
-<a href="https://github.com/ENZOTECH2/ENZO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/Cyberion-Spark-X?style=flat-square&color=blue"></a>
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/ENZOTECH2/ENZO-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/ENZOTECH2/ENZO-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ENZOTECH2/ENZO-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/ENZOTECH2/ENZO-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/ENZOTECH2/ENZO-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/ENZOTECH2/ENZO-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{ENZO-MD}/count.svg" alt="carl24tech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{carl24tech}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{ENZO-MD}/count.svg" alt="Enzo :: Visitor's Count" old_src="https://profile-counter.glitch.me/{enzo}/count.svg" /></p>
 
 
 
@@ -99,7 +99,7 @@
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-## CONTACT CARLTECH HERE
+## CONTACT ENZOTECH HERE
   DM FOR SERIOUS BUSINESS
 
    <a href="https://github.com/ENZOTECH2/ENZO-INFO"><img title="CONTACT-CARLTECH" src="https://img.shields.io/badge/CONTACT-ENZO-h?color=black&style=for-the-badge&logo=audi" width="240" height="45.45"/></a></p>
