@@ -1,9 +1,9 @@
 {
-  "name":"POPKID",
-  "description":"Best whatsapp bot developed by POPKID",
+  "name":"ENZO TECH",
+  "description":"Best whatsapp bot developed by ENZO",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://i.ibb.co/LpK2MK7/1728892250720.jpg",
-  "repository":"https://github.com/Popkiddevs/NORMAL-BOT-MD",
+  "repository":"https://github.com/ENZOTECH2/ENZO-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ᴘᴏᴘᴋɪᴅ ᴍᴅ",
+      "value":"ENZO MD",
       "required":false
 
     } ,
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ℙ𝕆ℙ 𝕂𝕀𝔻"
+    "value": "ENZO TECH"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254111385747"
+    "value": "254784115308"
   },
     "WARN_COUNT":
   {
