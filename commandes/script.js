@@ -41,7 +41,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://github.com/ENZOTECH2/ENZO-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029VagWQ255q08VTCRQKP09
+> https://whatsapp.com/channel/0029VajJTJp2f3ELCm8FN50D
 ⁠
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
