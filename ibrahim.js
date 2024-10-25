@@ -672,7 +672,7 @@ zk.ev.on('group-participants.update', async (group) => {
         const metadata = await zk.groupMetadata(group.id);
 
         if (group.action == 'add' && (await recupevents(group.id, "welcome") == 'on')) {
-            let msg = `*ANYWAY MD WELCOME MESSAGE*`;
+            let msg = `*ENZO MD WELCOME MESSAGE*`;
             let membres = group.participants;
             for (let membre of membres) {
                 msg += ` \n❒ *Hey* 🖐️ @${membre.split("@")[0]} WELCOME TO OUR GROUP. \n\n`;
@@ -850,8 +850,8 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =`      ❒─❒⁠⁠⁠⁠ *BOT-IS-RUNNING* ❒⁠⁠⁠⁠─⁠⁠⁠⁠❒⁠⁠⁠⁠
 ╭❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠              
-❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *POPKID*   
-❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *NORMAL-BOT-MD*
+❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *ENZO*   
+❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *ENZO-MD*
 ╰❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }
