@@ -36,7 +36,7 @@ zokou({
         // Prepare the message with song details
         const infoMess = {
           image: { url: videos[0].thumbnail },
-          caption: `*CHARITY-MD SONG PLAYER*\n
+          caption: `*ENZO-MD SONG PLAYER*\n
 ╭───────────────◆
 │ *Title:* ${videos[0].title}
 │ *Quality:* mp3 (320kbps)
@@ -48,7 +48,7 @@ zokou({
 ⦿ *Direct YtLink:* ${videoUrl}
 
 ╭────────────────◆
-│ *_𝗥𝗲𝗴𝗮𝗿𝗱𝘀 𝗖̼𝗔̼𝗦̼𝗘̼𝗬̼𝗥̼𝗛̼𝗢̼𝗗̼𝗘̼𝗦̼🌟._*
+│ *_𝗥𝗲𝗴𝗮𝗿𝗱𝘀 ENZO TECH🌟._*
 ╰─────────────────◆`
         };
 
@@ -61,7 +61,7 @@ zokou({
           mimetype: 'audio/mp4'
         }, { quoted: ms });
      
-       repondre('*Charity md has just downloaded your song*...');
+       repondre('*Enzo md has just downloaded your song*...');
       } else {
         repondre('Failed to download audio. Please try again later.');
       }
