@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"ENZO ᴍᴅ",
+      "value":"𝐄𝐍𝐙𝐎 𝐌𝐃",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "ENZO TECH"
+    "value": "𝐄𝐍𝐙𝐎 𝐓𝐄𝐂𝐇"
   },
     "NUMERO_OWNER":
   {
